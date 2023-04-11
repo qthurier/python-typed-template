@@ -1,6 +1,6 @@
 # Python typed template 🐍
 
-[![Build](https://github.com/tekumara/python-typed-template/actions/workflows/ci.yml/badge.svg)](https://github.com/tekumara/python-typed-template/actions/workflows/ci.yml)
+[![Build](https://github.com/qthurier/python-typed-template/actions/workflows/ci.yml/badge.svg)](https://github.com/qthurier/python-typed-template/actions/workflows/ci.yml)
 
 A minimal, generic, and opinionated template for **typed ✨** python projects that includes:
 
@@ -42,7 +42,7 @@ pipx install cookiecutter
 To create a project, aka bake a cookie 🍪:
 
 ```
-cookiecutter git@github.com:tekumara/python-typed-template.git
+cookiecutter git@github.com:qthurier/python-typed-template.git
 # replace repo-name below with the name you specified during template creation
 cd repo-name
 git init && git commit -m 'root commit' --allow-empty
